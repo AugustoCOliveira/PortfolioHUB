@@ -1,22 +1,21 @@
 # PortfolioHUB
 
-## Sobre o Repositório
+## Sobre o projeto
 
-Este repositório foi criado como parte da atividade "Desafio - Entrega Intermediária: Criação de Repositório com Versionamento".
+Este repositório foi criado para a atividade de Criação de Repositório com Versionamento.
 
-O objetivo do projeto é organizar projetos acadêmicos e pessoais em um repositório público no GitHub, utilizando boas práticas de versionamento, documentação e publicação com GitHub Pages.
+A ideia do projeto é montar um espaço no GitHub para organizar meus trabalhos acadêmicos, projetos pessoais e materiais relacionados aos meus estudos. Além disso, o repositório também serve para praticar o uso de Git, GitHub, documentação com README e publicação com GitHub Pages.
 
-## Estrutura do Repositório
+## Estrutura do repositório
 
 - `index.html`: página principal do portfólio.
-- `style.css`: arquivo de estilos da página.
+- `style.css`: arquivo usado para personalizar o visual da página.
 - `script.js`: arquivo JavaScript do projeto.
-- `projetos-academicos/`: pasta destinada a projetos e atividades acadêmicas.
-- `projetos-pessoais/`: pasta destinada a projetos pessoais.
-- `documentos/`: pasta para documentos relacionados ao portfólio.
-- `slides/`: pasta para materiais de apresentação.
+- `projetos-academicos/`: pasta para atividades e projetos da faculdade.
+- `projetos-pessoais/`: pasta para projetos feitos por conta própria.
+- `documentos/`: pasta para documentos relacionados ao trabalho.
 
-## Tecnologias Utilizadas
+## Tecnologias usadas
 
 - HTML
 - CSS
@@ -25,11 +24,9 @@ O objetivo do projeto é organizar projetos acadêmicos e pessoais em um reposit
 - GitHub
 - GitHub Pages
 
-## GitHub Pages
+## Página publicada
 
-A página do projeto foi publicada utilizando o GitHub Pages.
-
-Link da página publicada:
+A página do projeto foi publicada pelo GitHub Pages e pode ser acessada pelo link abaixo:
 
 https://augustocoliveira.github.io/PortfolioHUB/
 
