@@ -32,4 +32,4 @@ https://augustocoliveira.github.io/PortfolioHUB/
 
 ## Autor
 
-Augusto César
+Augusto César Oliveira De Almeida
