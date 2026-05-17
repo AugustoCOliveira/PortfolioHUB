@@ -25,6 +25,14 @@ O objetivo do projeto é organizar projetos acadêmicos e pessoais em um reposit
 - GitHub
 - GitHub Pages
 
+## GitHub Pages
+
+A página do projeto foi publicada utilizando o GitHub Pages.
+
+Link da página publicada:
+
+https://augustocoliveira.github.io/PortfolioHUB/
+
 ## Autor
 
 Augusto César
